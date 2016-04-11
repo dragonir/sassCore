@@ -4,8 +4,18 @@ sassCore参考了[compass](http://compass-style.org/)和[bourbon](http://bourbon
 
 sassCore提供了一些基础和常用的东西，基于它你可以扩展出很多组件等，如果你对这个有兴趣，可以参考下基于sassCore的[tobe](http://tobe.w3cplus.com)。
 
-##如何使用？
+## 安装
 
+npm:
+
+    npm install --save sass-core
+
+bower:
+
+    bower install --save sassCore
+
+
+##如何使用？
 
 sassCore分核心文件和扩展文件两种。其中核心文件提供一些基础的样式和`@mixin`，`%`等方便调用；而扩展文件则提供一些模块的样式，如`form`，`table`等。
 
