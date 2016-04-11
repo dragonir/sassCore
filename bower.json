@@ -1,0 +1,23 @@
+{
+  "name": "sassCore",
+  "homepage": "https://github.com/zhuowenli/sassCore",
+  "authors": [
+    "zhuowenli"
+  ],
+  "description": "Bower package for sassCore",
+  "main": "./_base.scss",
+  "moduleType": [],
+  "keywords": [
+    "sass",
+    "scss",
+    "sassCore"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
