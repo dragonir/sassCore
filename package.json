@@ -1,0 +1,24 @@
+{
+  "name": "sass-core",
+  "version": "1.0.0",
+  "description": "npm package for sassCore",
+  "main": "./_base.scss",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhuowenli/sassCore.git"
+  },
+  "keywords": [
+    "sass",
+    "scss",
+    "sassCore"
+  ],
+  "author": "zhuowenli",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zhuowenli/sassCore/issues"
+  },
+  "homepage": "https://github.com/zhuowenli/sassCore#readme"
+}
